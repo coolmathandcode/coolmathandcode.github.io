@@ -1,48 +1,48 @@
 body {
-  font-family: "Roboto Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: normal;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: normal;
     font-style: normal;
     background: linear-gradient(to right, #ffffff, #f7a6a6);
-
 }
 
 .header {
-  display: inline;
-  text-align: center;
+    display: inline;
+    text-align: center;
 }
 
 .redtext {
-  color: red;
-  font-size: 20px;
+    color: red;
+    font-size: 20px;
 }
+
 nav {
-      background-color: #333; /* Dark background color */
-      padding: 10px; /* Some padding around the navigation */
-    }
+    background-color: #333; /* Dark background color */
+    padding: 10px; /* Some padding around the navigation */
+}
 
-    /* Style the unordered list */
-    ul {
-      list-style-type: none; /* Remove bullets from the list */
-      margin: 0;
-      padding: 0;
-      display: flex; /* Make the list items inline */
-    }
+/* Style the unordered list */
+ul {
+    list-style-type: none; /* Remove bullets from the list */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Make the list items inline */
+}
 
-    /* Style the list items */
-    li {
-      margin-right: 20px; /* Space between the menu items */
-    }
+/* Style the list items */
+li {
+    margin-right: 20px; /* Space between the menu items */
+}
 
-    /* Style the links */
-    a {
-      color: white; /* White text color */
-      text-decoration: none; /* Remove underline from links */
-      font-size: 18px; /* Font size */
-      padding: 8px 16px; /* Some padding around the text */
-    }
+/* Style the links */
+a {
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 18px; /* Font size */
+    padding: 8px 16px; /* Some padding around the text */
+}
 
-    /* Add hover effect for links */
-    a:hover {
-      background-color: #575757; /* Darker background on hover */
-    }
+/* Add hover effect for links */
+a:hover {
+    background-color: #575757; /* Darker background on hover */
+}
